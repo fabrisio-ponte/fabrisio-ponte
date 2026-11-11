@@ -36,8 +36,8 @@ I like taking a model from research notebook to production, and making it reliab
 | Project | What it does | Result |
 |---|---|---|
 | [BEHRT Disease Prediction](https://github.com/fabrisio-ponte/WIP-Deep-Learning-Clinical-Decision-Support) | Transformer model predicting 474 disease categories from ICU patient histories (MIMIC-IV) | **0.919 ROC-AUC** on 24,729 patients |
-| [Epalithef](https://github.com/fabrisio-ponte/Epalithef-QL) | An end-to-end quantitative research stack for building, testing and monitoring systematic equity strategies, from raw market data to signals, portfolios, risk and backtested performance |
 | [Generative Gene NeuralNet](https://github.com/fabrisio-ponte/generative-gene-neuralnet) | RNN and attention models that predict the next nucleotide and k-mers in DNA sequences | Sequence modeling for genomics |
+| [Epalithef](https://github.com/fabrisio-ponte/Epalithef-QL) | An end-to-end quantitative research stack for building, testing and monitoring systematic equity strategies, from raw market data to signals, portfolios, risk and backtested performance |
 
 ### Tech Stack
 
