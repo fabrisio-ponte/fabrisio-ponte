@@ -1,4 +1,4 @@
-# Hi there, I'm Fabrisio!
+# I'm Fabrisio!
 
 **Data Scientist | ML Engineer | Healthcare AI & Risk Modeling**
 
