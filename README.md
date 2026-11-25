@@ -57,4 +57,4 @@ I like taking a model from research notebook to production, and making it reliab
 
 > *"Every model is a hypothesis. Production is where it gets tested."*
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,python,fastapi,nodejs,express,nestjs,postgres,redis,rabbitmq,prisma,pytorch,git&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,python,fastapi,nodejs,express,nestjs,postgres,redis,rabbitmq,prisma,pytorch,docker,aws,gcp,githubactions,kubernetes,nginx,terraform,linux,git&perline=6)](https://skillicons.dev)
