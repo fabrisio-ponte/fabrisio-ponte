@@ -1,28 +1,36 @@
 # I'm Fabrisio!
 
-**Data Scientist | ML Engineer |  AI & Risk Modeling**
+**Data Scientist | ML Engineer | Data & Risk Modeling**
 
-I build AI and machine learning systems that turn complex data into real decisions, from clinical decision support that helps doctors find rare diseases faster to risk models that guide insurance and credit decisions. My background spans economics, financial engineering and computer science, so I care about both the math behind a model and the business result it delivers.
+I build production machine learning systems, analytical pipelines, and decision models that turn complex data into high-stakes operational outcomes—from clinical decision support that accelerates rare-disease detection to risk and underwriting models for insurance, credit, and finance. With training across economics, finance, data science, and information systems, I care equally about mathematical rigor and measurable business impact.
 
-I like taking a model from research notebook to production, and making it reliable, explainable and useful to the people who rely on it.
+I take models from research to production and build data infrastructure that is reliable, explainable, and built to scale.
 
 ---
 
 ### What I Bring to the Table
 
-- **Clinical AI & Decision Support:** Production systems that trace diagnostic paths across EHRs, clinical notes and genomic data.
-- **Knowledge Graphs:** Neo4j graphs that connect genes, phenotypes and diseases, or businesses, markets and performance, so complex relationships become queryable insight.
-- **Predictive & Risk Modeling:** Claims analytics, staff scoring models and credit-risk tiering for insurance and finance.
-- **Production Data Engineering:** End-to-end pipelines, OLAP warehouses (BigQuery) and orchestration (Airflow, Dagster) built for scale.
-- **Quantitative Finance:** Stochastic control, portfolio optimization and risk-adjusted performance analysis.
+- **Clinical AI & Decision Support:** Systems that model longitudinal trajectories across EHRs, clinical notes, and genomic data to support diagnostic workflows.
+- **Knowledge Graphs:** Graph architectures (Neo4j) connecting genes, phenotypes, and diseases—or entities, markets, and performance—into queryable structures.
+- **Predictive & Risk Modeling:** Claims analytics, adjuster and operational scoring models, and credit-risk tiering for insurance and financial services.
+- **Production Data Engineering:** End-to-end ingestion, ETL/ELT pipelines, OLAP warehousing (BigQuery), message/event queuing, and orchestration (Airflow, Dagster) designed to protect transactional databases.
+- **Quantitative & Causal Modeling:** Stochastic control, portfolio optimization, risk-adjusted performance evaluation, and causal/statistical inference.
 
 ### Selected Impact
 
-- **Rare-disease diagnostics:** Cut time-to-detection **~70%** with a clinical decision-support system now serving **~1,000 clinicians**, bringing analysis from days to minutes.
-- **Document automation:** Reduced project feasibility reviews from **1 week to 1 hour** with a Python OCR pipeline.
-- **Insurance claims:** Shortened claim cycle time **~20%**, and automated performance scoring for 100% of field and desk staff with an ML model trained on senior adjusters' standards.
-- **Analytics infrastructure:** Cut processing time **35%** by migrating reporting from PostgreSQL to a BigQuery OLAP warehouse, with zero load on production.
-- **Credit risk:** Reduced credit-risk exposure **~20%** across 30+ healthcare provider accounts.
+- **Rare-disease diagnostics:** Cut time-to-detection by **~70%** with a clinical decision-support system serving **~1,000 clinicians**, compressing review times from days to minutes.
+- **Document automation:** Reduced project feasibility review cycles from **1 week to 1 hour** with an automated Python OCR and extraction pipeline.
+- **Insurance claims & operations:** Shortened claim cycle times by **~20%** and automated performance scoring across **100%** of field and desk staff using models benchmarked to senior adjusters.
+- **Analytics infrastructure:** Cut reporting and processing times by **35%** by offloading analytical workloads from PostgreSQL to a BigQuery OLAP warehouse with zero load on production.
+- **Credit risk:** Reduced credit-risk exposure by **~20%** across **30+** healthcare provider accounts.
+
+### Featured Projects
+
+| Project | What It Does | Key Outcome |
+|---|---|---|
+| [BEHRT Disease Prediction](https://github.com/fabrisio-ponte/WIP-Deep-Learning-Clinical-Decision-Support) | Transformer model predicting 474 disease categories from longitudinal ICU histories (MIMIC-IV) | **89% ROC-AUC** across 24,729 patients |
+| [Generative Gene NeuralNet](https://github.com/fabrisio-ponte/generative-gene-neuralnet) | RNN and attention models predicting next nucleotides and k-mers in DNA sequences | Sequence modeling for genomics |
+| [Epalithef](https://github.com/fabrisio-ponte/Epalithef-QL) | End-to-end quantitative research framework covering market ingestion, signal generation, portfolio construction, risk, and backtesting | Systematic quantitative finance |
 
 ### Research in Progress
 
@@ -31,30 +39,24 @@ I like taking a model from research notebook to production, and making it reliab
 - *Mechanistic Interpretability of Attention Heads in Transformer Models for Disease Prediction*
 - *Counterfactual Explanations for Deep Sequential Models in Electronic Health Records*
 
-### Featured Projects
+### Currently Focused On
 
-| Project | What it does | Result |
-|---|---|---|
-| [BEHRT Disease Prediction](https://github.com/fabrisio-ponte/WIP-Deep-Learning-Clinical-Decision-Support) | Transformer model predicting 474 disease categories from ICU patient histories (MIMIC-IV) | **89% ROC-AUC** on 24,729 patients |
-| [Generative Gene NeuralNet](https://github.com/fabrisio-ponte/generative-gene-neuralnet) | RNN and attention models that predict the next nucleotide and k-mers in DNA sequences | Sequence modeling for genomics |
-| [Epalithef](https://github.com/fabrisio-ponte/Epalithef-QL) | An end-to-end quantitative research stack for building, testing and monitoring systematic equity strategies, from raw market data to signals, portfolios, risk and backtested performance | Sequence modeling for finance
+- **Interpretable healthcare & sequential AI:** Making deep clinical and EHR models transparent and trustworthy for clinicians.
+- **Graph + ML hybrids:** Combining knowledge-graph structure with deep learning to improve ranking and reasoning.
+- **Risk-aware & data-reliable systems:** Pairing quantitative risk controls with clean, scalable data engineering.
 
 ### Tech Stack
 
-**Languages & Data:** Python · SQL · R · TypeScript · PostgreSQL · MongoDB · BigQuery · Neo4j
-**ML & AI:** PyTorch · TensorFlow · Transformers · scikit-learn · NLP · Knowledge Graphs
-**Engineering & Cloud:** AWS · GCP · Docker · Airflow · Dagster · FastAPI · Flask · CircleCI
+**Languages & Databases:** Python · SQL · TypeScript · JavaScript · R · PostgreSQL · BigQuery · Neo4j · MongoDB · Redis  
+**ML, AI & Modeling:** PyTorch · TensorFlow · Transformers · scikit-learn · NLP · Knowledge Graphs · Causal & Quantitative Modeling  
+**Data Engineering, Cloud & Delivery:** Docker · AWS · GCP · Airflow · Dagster · FastAPI · Node.js · NestJS · Express · React · GitHub Actions · CircleCI · Git
 
-### Currently Focused On
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,python,fastapi,nodejs,express,nestjs,postgres,redis,rabbitmq,prisma,pytorch,docker,aws,gcp,githubactions,kubernetes,nginx,terraform,linux,git&perline=6)](https://skillicons.dev)
 
-- **Interpretable healthcare AI:** Making transformer models on EHR data explainable enough for clinicians to trust.
-- **Graph + ML hybrids:** Combining knowledge-graph reasoning with deep learning for better diagnostic ranking.
-- **Risk-aware decision systems:** Bringing stochastic control and risk modeling into practical financial tools.
+---
 
 ### Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/fabrisio-ponte-vela/) · M.S. Data & Computer Science, University of Miami · M.S. Financial Engineering, FIU
+[LinkedIn](https://www.linkedin.com/in/fabrisio-ponte-vela/) · [GitHub](https://github.com/fabrisio-ponte) · M.S. Data Science (University of Miami) · M.S. Finance (FIU) · M.S. Information Systems in progress (FIU)
 
 > *"Every model is a hypothesis. Production is where it gets tested."*
-
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,python,fastapi,nodejs,express,nestjs,postgres,redis,rabbitmq,prisma,pytorch,docker,aws,gcp,githubactions,kubernetes,nginx,terraform,linux,git&perline=6)](https://skillicons.dev)
