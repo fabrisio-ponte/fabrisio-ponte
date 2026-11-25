@@ -2,7 +2,7 @@
 
 **Data Scientist | ML Engineer |  AI & Risk Modeling**
 
-I build machine learning systems that turn complex data into real decisions, from clinical decision support that helps doctors find rare diseases faster to risk models that guide insurance and credit decisions. My background spans economics, financial engineering and computer science, so I care about both the math behind a model and the business result it delivers.
+I build AI and machine learning systems that turn complex data into real decisions, from clinical decision support that helps doctors find rare diseases faster to risk models that guide insurance and credit decisions. My background spans economics, financial engineering and computer science, so I care about both the math behind a model and the business result it delivers.
 
 I like taking a model from research notebook to production, and making it reliable, explainable and useful to the people who rely on it.
 
